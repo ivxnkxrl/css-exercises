@@ -1,0 +1,52 @@
+{
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+
+  "[python]": {
+    "editor.tabSize": 4
+  },
+
+  "[html]": {
+    "editor.tabSize": 2
+  },
+
+  "[css]": {
+    "editor.tabSize": 2
+  },
+
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+
+  "[javascriptreact]": {
+    "editor.tabSize": 2
+  },
+
+  "[typescriptreact]": {
+    "editor.tabSize": 2
+  },
+
+  "[json]": {
+    "editor.tabSize": 2
+  },
+
+  "[yaml]": {
+    "editor.tabSize": 2
+  },
+
+  "[java]": {
+    "editor.tabSize": 4
+  },
+
+  "[kotlin]": {
+    "editor.tabSize": 4
+  },
+
+  "[swift]": {
+    "editor.tabSize": 4
+  }
+}
